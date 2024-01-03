@@ -9,3 +9,4 @@
 // ------------------------------------------ Additional information ----------------------------------------------------------------------------------------------------------------
 // Happy new year! Will continue on january 3rd
 // Most likely will start here instead of debugging
+// Why? Because I jumped the gun on it.
