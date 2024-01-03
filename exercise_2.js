@@ -7,4 +7,4 @@
 
 
 // ------------------------------------------ Additional information ----------------------------------------------------------------------------------------------------------------
-// Happy new year! Will continue on january 2
+// Happy new year! Will continue on january 3rd
